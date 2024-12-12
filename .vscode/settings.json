@@ -1,0 +1,7 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.24.5",
+  "cmake.sourceDirectory": "/home/weatr7/Documents/zvflutter/test_mobx/linux",
+  "java.project.sourcePaths": [
+    "lib/src/images"
+  ]
+}
